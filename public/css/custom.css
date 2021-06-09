@@ -1,0 +1,13 @@
+.parallax{
+    background-image: url("../images/banner.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-div{
+    margin-top: 90px;
+    margin-right: 40px;
+}
